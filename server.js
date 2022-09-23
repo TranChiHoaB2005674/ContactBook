@@ -1,4 +1,4 @@
-const app = require('index.js')
+const app = require('./index.js')
 const config = require('./app/config')
 
 const port = config.app.port
