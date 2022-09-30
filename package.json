@@ -1,7 +1,7 @@
 {
-  "name": "contactbook__api__ct449_06",
+  "name": "contactbook__api__ct449_06_buoi_2",
   "version": "1.0.0",
-  "description": "This project is Lab of course CT449",
+  "description": "contack book api ct449 -6 lab 2",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -12,10 +12,9 @@
   },
   "keywords": [
     "js",
-    "json",
-    "nodejs",
     "node",
-    "express"
+    "express",
+    "json"
   ],
   "author": "TranChiHoaB2005674",
   "license": "ISC",
